@@ -1,7 +1,7 @@
 /* style.css */
 
 :root {
-  --primary: #4f46e5;
+  --primary: #040320;
   --background: #f9f9f9;
   --text: #333;
   --white: #fff;
@@ -39,7 +39,7 @@ nav a:hover {
 .intro {
   padding: 4rem 2rem;
   text-align: center;
-  background: linear-gradient(to right, #4f46e5, #6366f1);
+  background: linear-gradient(to right, #191740, #191740);
   color: white;
 }
 
